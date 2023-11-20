@@ -1,0 +1,31 @@
+Exercicio 1:
+
+Usuário: "Escreva um número com duas casas decimais"
+
+Devolver a soma dos dois digitos. Exemplos: 99 = 9 + 9 => 18,  12 = 1 + 2 => 3
+
+
+Exercicio 2:
+
+Calcular o IMC
+
+Perguntar altura e peso, e devolver o número referente ao IMC.
+
+
+Exercicio 3:
+
+Calcular tempo de vida. Se supostamenta uma pessoa viva até os 90 anos.
+
+Perguntar a idade.
+
+Devolver: quantos anos a pessoa tem pela frente. Depois em meses, em semanas, em dias.
+
+
+Exercicio 4:
+
+Calculadora de gorgetas.
+
+Perguntar valor da conta, qual gorgeta(%), quantas pessoas.
+
+Devolver o valot total da conta com a gorgeta e quando cada um irá pagar.
+

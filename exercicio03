@@ -1,0 +1,66 @@
+Exercicio 1:
+
+Pedir um número para o user
+
+Devolver se é par ou impar
+
+
+Exercicio 2:
+
+Melhorar o IMC
+
+Usar o valor do IMC, e devolver:
+até 18.5 - peso baixo
+de 18 a 23 - normal
+de 25 a 30 - acima do peso
+de 30 a 35 - obeso
+mais de 35 - obeso clínico
+
+Exercicio 3:
+
+Perguntar o nome do aluno e nota de 3 provas(0-100).
+
+Devolver:
+0 a 60 - reprovado
+60 a 70 - recuperação
++70 - passou
+
+
+Exercicio 4:
+
+Ano bissexto
+
+Pedir um ano, e devolver se é ou não bissexto
+
+É divisivel por 4
+Exepto se é divisível por 100
+A menos que é divisível por 400
+
+Ex: 2000
+/4 = 500 (leap)
+/100 = 20 (no leap)
+/400 = 5 (leap)
+
+
+Exercicio 5:
+
+Calculador de pizza:
+
+Perguntar tamanho(s,m,l), se quer queijo extra, e se quer peperroni extra.
+
+Tabela:
+s - 15
+m - 20
+l - 25
+
+Queijo extra:
+acresce 1 euro, qualquer tamanho
+
+Peperroni extra:
+acresce 2 para s, e 3 para m e l.
+
+
+Devolver o valor da encomenda.
+
+
+

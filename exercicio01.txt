@@ -1,0 +1,16 @@
+Exercicio 1:
+
+Perguntar "Qual seu nome?"
+
+Devolver: "Bom dia! "Nome"!
+
+
+Exercicio 2:
+
+Gerador de nome de banda:
+
+Perguntar para user nome da cidade que nasceu e do pet.
+
+Devolver o nome da bando que é cidade + pet
+
+
